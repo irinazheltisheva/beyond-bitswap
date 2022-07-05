@@ -17,3 +17,4 @@ python-rclone
 pandas-sets
 base58
 ipyfilechooser
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
