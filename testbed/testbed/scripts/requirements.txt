@@ -17,3 +17,4 @@ python-rclone
 pandas-sets
 base58
 ipyfilechooser
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
